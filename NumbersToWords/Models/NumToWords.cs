@@ -1,0 +1,7 @@
+namespace NumToWords
+{
+  class NumConverter
+  {
+    
+  }
+}
